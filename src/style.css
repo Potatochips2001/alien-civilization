@@ -1,0 +1,19 @@
+body {
+  background-color: #222;
+  color: #ccc;
+}
+input {
+  background-color: #111;
+  border: transparent;
+  color: #ccc;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+button {
+  background-color: #111;
+  color: #ccc;
+}
+button:hover {
+  transform: scale(1.1)
+}
