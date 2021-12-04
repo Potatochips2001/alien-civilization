@@ -10,8 +10,8 @@ Assuming a planet remains habitable for so long, there is a long time for simple
 ### Fraction of planets with life that develop intelligence
 Of species including but not limited to (amphibians, reptiles, birds, etc), About 47% of these are considered intelligent.
 ### Fraction of planets that develop communication
-About 2% of the intelligent species calculated to be primates. If intelligent enough, could communicate in space.
+About 2% of the intelligent species calculated to be primates. If intelligent enough, could communicate in space (0.2%).
 ### Average lifespan of habitable planets
-Earth's total habitable time is 7.79 billion years, we can assume this is the average.
+Earth's total habitable time is 7.79 billion years, we can assume this is the average. <br/>
 ### Time a civilization can communicate
 If global warming wipes us out by 2150, that would mean we could communicate for 270 years, assuming alien civilizations aren't as populated as humans, we put this number to a more accurate number (2,700 years).
