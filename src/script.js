@@ -15,8 +15,8 @@ function getAliens(s, fs, fl, fi, fc, pl, cl) {
   return Math.floor(n)
 }
 
-function getIntelligent(s, fs, fl, fi) {
-  let n = s * fs * fl * fi;
+function getIntelligent(s, fs, fl, fi, pl, cl) {
+  let n = s * fs * fl * fi * (cl / pl);
   return Math.floor(n)
 }
 
@@ -40,7 +40,7 @@ function calculate() {
   alien = getAliens(stars.replace(/[^0-9.]/g, ''), fractionStars.replace(/[^0-9.]/g, ''), fractionLife.replace(/[^0-9.]/g, ''), fractionIntelligent.replace(/[^0-9.]/g, ''), fractionCommunicate.replace(/[^0-9.]/g, ''), planetLifespan.replace(/[^0-9.]/g, ''), communicationLifespan.replace(/[^0-9.]/g, ''));
   alienDensity = getAlienDensity(galaxyDiameter.replace(/[^0-9.]/g, ''), galaxyThickness.replace(/[^0-9.]/g, '')); //alien density regex
   document.getElementById('result').innerText = `Alien civilizations N=${alien.toLocaleString()}\nOne civilization every ${alienDensity.toLocaleString()} lightyear(s)`;
-  intelligentSpecies = getIntelligent(stars.replace(/[^0-9.]/g, ''), fractionStars.replace(/[^0-9.]/g, ''), fractionLife.replace(/[^0-9.]/g, ''), fractionIntelligent.replace(/[^0-9.]/g, ''));
+  intelligentSpecies = getIntelligent(stars.replace(/[^0-9.]/g, ''), fractionStars.replace(/[^0-9.]/g, ''), fractionLife.replace(/[^0-9.]/g, ''), fractionIntelligent.replace(/[^0-9.]/g, ''), planetLifespan.replace(/[^0-9.]/g, ''), communicationLifespan.replace(/[^0-9.]/g, ''));
   intelligentSpeciesDensity = getIntelligentDensity(galaxyDiameter.replace(/[^0-9.]/g, ''), galaxyThickness.replace(/[^0-9.]/g, ''));
   document.getElementById('result-2').innerText = `Planets with intelligent life ${intelligentSpecies.toLocaleString()}\nOne planet with intelligent life every ${intelligentSpeciesDensity.toLocaleString()} lightyear(s)`;
 }
