@@ -15,3 +15,16 @@ About 2% of the intelligent species calculated to be primates. If intelligent en
 Earth's total habitable time is 7.79 billion years, we can assume this is the average. (further reading I've found planets can be in habitable zones for 10 billion years) <br/>
 ### Time a civilization can communicate
 Assuming humans will go extinct by 2149 from high carbon dioxide and increased temperatures, that would be 175 years from the arecibo message.
+
+# Detecting & contacting aliens. Why we might never contact aliens
+Radio waves will continue forever, after a certain point they will be impossible to decode due to the inverse square law.
+### Radio waves / Decibels per milliwatt
+A way of calculating radio waves strength is with dBm, where 0 db corresponds to 1 milliwatt. <br/>
+So 10 dBm would be 10 milliwatt and 20 dBm would be 100 milliwatt <br/>
+You can convert milliwatts to dBm with 10 * log10(P) <br/>
+<a href="https://en.wikipedia.org/wiki/DBm">Here is an interesting wikipedia page to understand dBm more and additional information</a>
+### Calculating how long radio waves can be decoded
+Using the following formula, we can calculate how many dBm a radio wave is at a current distance <br/>
+![](radio-waves-decay.png) <br/>
+Radio waves will become impossible to decode once the dBm reaches -192.5 dBm (thermal noise floor in space) <br/>
+If we set P to 100,000,000 milliwatts (FM radio stations), these signals will be unreadable within 0.0045 lightyears (around 40 hours).
