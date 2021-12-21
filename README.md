@@ -32,3 +32,16 @@ Using the following formula, we can calculate how many dBm a radio wave is at a 
 ![](radio-waves-decay.png) <br/>
 Radio waves will become impossible to decode once the dBm reaches -192.5 dBm (thermal noise floor in space) <br/>
 If we set P to 100,000,000 milliwatts (FM radio stations), these signals will be unreadable within 0.0045 lightyears (around 40 hours).
+# Artificial lights from proxima b
+James webb telescope has said to possibly detect artificial lights when it launches.
+### Detecting how far we can detect artificial lights
+The minimum watts detectable to the human eye is 3.58e-18 <br/>
+If artificial lights can produce ~100 billion watts of light, the inverse square law returns 6.2e-23, which is below human eye detection
+### Telescopes
+The hubble telescope focal length is 57.6 meters, the cornea of human eye is 11 mm in diameter <br/>
+we can calculate the magnification power with this (57.6 / 0.011) = 5,236, 6.2e-23 * 5,236 would still not pass the human eye detection <br/>
+The james webb has a focal length of 131.4 meters, 11,945 power (6.2e-23 * 11,945) = 7.4e-19, this would still not pass minimum eye detection. <br/>
+It would take at least 483,055,713,400 watts to detect artificial lights. <br/>
+### Civilization
+Any alien civilization from proxima b would have to be more advanced than us to detect them. <br/>
+Using kardashev scale, this would be a type 0.568 civilization (we are a 0.5 type civilization).
