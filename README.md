@@ -44,4 +44,6 @@ The james webb has a focal length of 131.4 meters, 11,945 power (6.2e-23 * 11,94
 It would take at least 483,055,713,400 watts to detect artificial lights. <br/>
 ### Civilization
 Any alien civilization from proxima b would have to be more advanced than us to detect them. <br/>
-Using kardashev scale, this would be a type 0.568 civilization (we are a 0.5 type civilization).
+Using kardashev scale, this would be a type 0.568 civilization (we are a 0.5 type civilization). <br/>
+The chances of detecting artificial lights from proxima b if there is life is 20.7% <br/>
+If the chances of life on proxima b is 58%, 0.58 * 0.27 is 16% chance.
