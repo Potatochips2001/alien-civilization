@@ -43,7 +43,9 @@ we can calculate the magnification power with this (57.6 / 0.011) = 5,236, 6.2e-
 The james webb has a focal length of 131.4 meters, 11,945 power (6.2e-23 * 11,945) = 7.4e-19, this would still not pass minimum eye detection. <br/>
 It would take at least 483,055,713,400 watts to detect artificial lights. <br/>
 ### Civilization
+In 1970 we were using about 10 billion energy, so we were a type 0.4 civilization (log10(P)-6)/(10) <br/>
+A type 0.4 civilization is when we will consider aliens intelligent life that can communicate. <br/>
 Any alien civilization from proxima b would have to be more advanced than us to detect them. <br/>
 Using kardashev scale, this would be a type 0.568 civilization (we are a 0.5 type civilization). <br/>
-The chances of detecting artificial lights from proxima b if there is life is 20.7% <br/>
-If the chances of life on proxima b is 58%, 0.58 * 0.207 is 12% chance.
+The chances of detecting artificial lights from proxima b if there is life is 2% <br/>
+If the chances of life on proxima b is 58%, 0.58 * 0.207 is around 1% chance of detecting artificial lights.
