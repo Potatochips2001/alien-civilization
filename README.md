@@ -48,4 +48,4 @@ A type 0.4 civilization is when we will consider aliens intelligent life that ca
 Any alien civilization from proxima b would have to be more advanced than us to detect them. <br/>
 Using kardashev scale, this would be a type 0.568 civilization (we are a 0.5 type civilization). <br/>
 The chances of detecting artificial lights from proxima b if there is life is 2% <br/>
-If the chances of life on proxima b is 58%, 0.58 * 0.207 is around 1% chance of detecting artificial lights.
+If the chances of life on proxima b is 58%, 0.58 * 0.02 is around 1% chance of detecting artificial lights.
