@@ -9,17 +9,17 @@ Stellur density correlates to about 494,925,397,747 stars in the milky way.
 ~~Assuming a planet remains habitable for so long, there is a long time for simple life forms to develop.~~ <br/>
 Odds of planet developing life 9:1 <a href="https://www.sciencedaily.com/releases/2020/05/200518162639.htm" target="_blank"><sup>[s]</sup></a>
 ### Fraction of planets with life that develop intelligence
-Of species including but not limited to (amphibians, reptiles, birds, etc), About 47% of these are considered intelligent. <br/>
+~~Of species including but not limited to (amphibians, reptiles, birds, etc), About 47% of these are considered intelligent.~~ <br/>
 New study I read states odds ratio is 3:2
 ### Fraction of planets that develop communication
-Humans are 0.01% of animals; great apes are 0.05% of species, this would correlate to 1-8 aliens in the milky way
+Humans are 0.01% of animals; great apes are 0.05% of species.
 ### Average lifespan of habitable planets
 Earth's total habitable time is 7.79 billion years, we can assume this is the average. <br/>
 (further reading I've found planets can be in habitable zones for 10 billion years) <br/>
 ### Time a civilization can communicate
 Assuming humans will go extinct by 2149 from high carbon dioxide and increased temperatures, that would be 175 years from the arecibo message. <br/>
-We can just assume that intelligence was at 1970, this will be about 180 years before extinction. <br/>
-Assuming these alien civilizations aren't overpopulated and more intelligent, we can put this value at about 1,080;
+We can just assume that intelligence was at 1970, this will be about 179 years before extinction. <br/>
+Assuming the population peaks at 9.4 billion and the ideal population is 1.5, overpopulation causes more carbon dioxide, so we can say 1,121 years before extincion. If they are more intelligent than humans ~160 IQ, that would be 1024 times more intelligent than humans (intelligence doubles every 6 points). 1121 + 1024 = 2145 years.
 # Detecting & contacting aliens. Why we might never contact aliens
 Radio waves will continue forever, after a certain point they will be impossible to decode due to the inverse square law.
 ### Radio waves / Decibels per milliwatt
