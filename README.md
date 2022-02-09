@@ -19,7 +19,8 @@ Earth's total habitable time is 7.79 billion years, we can assume this is the av
 ### Time a civilization can communicate
 Assuming humans will go extinct by 2149 from high carbon dioxide and increased temperatures, that would be 175 years from the arecibo message. <br/>
 We can just assume that intelligence was at 1970, this will be about 179 years before extinction. <br/>
-Assuming the population peaks at 9.4 billion and the ideal population is 1.5, overpopulation causes more carbon dioxide, so we can say 1,121 years before extincion. If they are more intelligent than humans ~160 IQ, that would be 1024 times more intelligent than humans (intelligence doubles every 6 points). 1121 + 1024 = 2145 years.
+Assuming the population peaks at 9.4 billion and the ideal population is 1.5, overpopulation causes more carbon dioxide, so we can say 1,121 years before extincion. <br/>
+Harvesting energy from nearby planets could increase the time a civilization can communicate.
 # Detecting & contacting aliens. Why we might never contact aliens
 Radio waves will continue forever, after a certain point they will be impossible to decode due to the inverse square law.
 ### Radio waves / Decibels per milliwatt
