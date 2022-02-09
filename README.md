@@ -21,6 +21,10 @@ Assuming humans will go extinct by 2149 from high carbon dioxide and increased t
 We can just assume that intelligence was at 1970, this will be about 179 years before extinction. <br/>
 Assuming the population peaks at 9.4 billion and the ideal population is 1.5, overpopulation causes more carbon dioxide, so we can say 1,121 years before extincion. <br/>
 Harvesting energy from nearby planets could increase the time a civilization can communicate.
+### Final results
+The default values returns 1 civilization more intelligent than us, but if they are harvesting and using other planets nearby, we can multiply the number of years by the number of planets. We can estimate this is between 1-4.<br/>
+There is most likely about one(1) to five(5) alien civilizations in the milky way. <br/>
+Andromeda would have about eight(8) to thirty-four(34) alien civilizations.
 # Detecting & contacting aliens. Why we might never contact aliens
 Radio waves will continue forever, after a certain point they will be impossible to decode due to the inverse square law.
 ### Radio waves / Decibels per milliwatt
