@@ -16,15 +16,17 @@ Humans are 0.01% of animals; great apes are 0.05% of species.
 ### Average lifespan of habitable planets
 Earth's total habitable time is 7.79 billion years, we can assume this is the average. <br/>
 (further reading I've found planets can be in habitable zones for 10 billion years) <br/>
+We can set this to 1 billion years assuming a planet has to be 5 billion years old to start developing intelligent life, and life takes 1 billion years to completely evolve.
 ### Time a civilization can communicate
 Assuming humans will go extinct by 2149 from high carbon dioxide and increased temperatures, that would be 175 years from the arecibo message. <br/>
 We can just assume that intelligence was at 1970, this will be about 179 years before extinction. <br/>
-Assuming the population peaks at 9.4 billion and the ideal population is 1.5, overpopulation causes more carbon dioxide, so we can say 1,121 years before extincion. <br/>
+If the growth rate of the world population is 1% and 7.9 billion at 2022, by human extinction (2149) the population would be 27.95 billion (this is unlikely, but lets just assume), the ideal population to sustain humans is 2.3 billion (own data) <br/>
+We can estimate by 28.95/2.3*179 assuming civilizations aren't overpopulated. <br/>
+2,175 years <br/>
 Harvesting energy from nearby planets could increase the time a civilization can communicate.
-### Final results
-The default values returns 1 civilization more intelligent than us, but if they are harvesting and using other planets nearby, we can multiply the number of years by the number of planets. We can estimate this is between 1-4.<br/>
-There is most likely about one(1) to five(5) alien civilizations in the milky way. <br/>
-Andromeda would have about eight(8) to thirty-four(34) alien civilizations.
+### Density
+Maximum distance between two points formula: ![](maximum-distance.png)
+<br/>Then just divide by number of civilizations.
 # Detecting & contacting aliens. Why we might never contact aliens
 Radio waves will continue forever, after a certain point they will be impossible to decode due to the inverse square law.
 ### Radio waves / Decibels per milliwatt
