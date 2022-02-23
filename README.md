@@ -1,9 +1,9 @@
 # alien-civilization
 This is a formula I made to calculate the active alien civilizations that are capable of communication.
 # Value explanations
-### Stars in galaxy
-Stellur density correlates to about 494,925,397,747 stars in the milky way. <br/>
-Stellur density correlates to about 2,848,596,690,773 stars in andromeda
+### Galaxy sizes
+Milky way is 260,000 ly in diameter & 2,000 ly high, and the dark matter halo is 1.9 million ly.<a href="https://www.dailymail.co.uk/sciencetech/article-8146523/Milky-Way-extends-1-9-MILLION-light-years-thanks-dark-matter.html"><sup>[s]</sup></a> <br/>
+Andromeda is 220,000 ly in diameter & 2,600 ly high, the halo is 1,389,426 ly. <a href="https://arxiv.org/abs/1208.5712"><sup>[s]</sup></a>
 ### Fraction of stars with habitable planets
 59% of stars have a planet between 0.85 and 4 times earth and habitable
 ### Fraction of planets that develop life
