@@ -1,5 +1,6 @@
 document.addEventListener('keydown', (event) => {
-  if (event.keyCode === 13) document.getElementById('btn').click();
+  if (event.key === 'Enter') document.getElementById('btn').click();
+  //if (event.keyCode === 13) document.getElementById('btn').click();
 });
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -7,13 +8,13 @@ document.addEventListener('DOMContentLoaded', () => {
     let galaxyOption = document.getElementById('galaxy-select').value;
     switch (galaxyOption) {
       case 'milky-way': {
-        document.getElementById('stars').value = '494,925,397,747';
-        document.getElementById('galaxy-diameter').value = '105,700';
-        document.getElementById('galaxy-thickness').value = '1,956.94';
+        document.getElementById('stars').value = '200';
+        document.getElementById('galaxy-diameter').value = '260,000';
+        document.getElementById('galaxy-thickness').value = '2,000';
         break;
       }
       case 'andromeda': {
-        document.getElementById('stars').value = '2,848,596,690,773';
+        document.getElementById('stars').value = '1,000';
         document.getElementById('galaxy-diameter').value = '220,000';
         document.getElementById('galaxy-thickness').value = '2,600';
         break;
@@ -30,11 +31,13 @@ function getUIValue(_id) {
 }
 
 function getAliens(s, fs, fl, fi, fc, pl, cl) {
+  s = s*1000000000;
   let n = s * fs * fl * fi * fc * (cl / pl);
   return Math.floor(n);
 }
 
 function getIntelligent(s, fs, fl, fi, pl, cl) {
+  s = s*1000000000;
   let n = s * fs * fl * fi * (cl / pl);
   return Math.floor(n);
 }

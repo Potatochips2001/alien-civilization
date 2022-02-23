@@ -2,20 +2,27 @@ body {
   background-color: #222;
   color: #ccc;
 }
+#wrapper {
+  width: 65ch;
+}
+#galaxy-diameter, #galaxy-thickness {
+  float: initial;
+}
 input {
-  background-color: #111;
+  background-color: #121212;
   border: transparent;
   color: #ccc;
+  float: right;
 }
 input[type=number] {
   -moz-appearance: textfield;
 }
 select {
-  background-color: #111;
+  background-color: #121212;
   color: #ccc;
 }
 button {
-  background-color: #111;
+  background-color: #121212;
   color: #ccc;
 }
 button:hover {
