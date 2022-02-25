@@ -13,7 +13,7 @@ Odds of planet developing life in goldilock zone 9:1 <a href="https://www.scienc
 ~~Of species including but not limited to (amphibians, reptiles, birds, etc), About 47% of these are considered intelligent.~~ <br/>
 New study I read states odds ratio is 3:2
 ### Fraction of planets that develop communication
-Humans are 0.01% of animals; great apes are 0.05% of species.
+Humans are 0.015% of animals; great apes are 0.077% of species.
 ### Average lifespan of habitable planets
 Earth's total habitable time is 7.79 billion years, we can assume this is the average. <br/>
 (further reading I've found planets can be in habitable zones for 10 billion years) <br/>
