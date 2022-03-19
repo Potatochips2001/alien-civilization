@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let galaxyOption = document.getElementById('galaxy-select').value;
     switch (galaxyOption) {
       case 'milky-way': {
-        document.getElementById('stars').value = '200';
+        document.getElementById('stars').value = '100';
         document.getElementById('galaxy-diameter').value = '260,000';
         document.getElementById('galaxy-thickness').value = '2,000';
         break;
