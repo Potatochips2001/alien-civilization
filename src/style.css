@@ -5,6 +5,9 @@ body {
 #wrapper {
   width: 65ch;
 }
+#new-wrapper{
+  width: 65ch;
+}
 #galaxy-diameter, #galaxy-thickness {
   float: initial;
 }

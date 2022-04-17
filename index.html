@@ -6,13 +6,13 @@
     <link rel="stylesheet" href="src/style.css"/>
   </head>
   <body>
-    <div id="wrapper">
+    <div id="wrapper" hidden>
       <label>Stars in the galaxy (billion)</label>
       <input type="text" id="stars" value="100"/> <br/> <br/>
       <label>Fraction of stars with planets in habitable zone</label>
       <input type="number" id="fraction-stars" value="0.59"/> <br/> <br/>
       <label>Fraction of planets that develop life</label>
-      <input type="number" id="fraction-life" value="0.9"/> <br/> <br/>
+      <input type="number" id="fraction-life" value="0.9"> <br/> <br/>
       <label>Fraction of planets that develop intelligent life</label>
       <input type="number" id="fraction-intelligent" value="0.67"/> <br/> <br/>
       <label>Fraction of intelligent life that can communicate</label>
@@ -30,7 +30,36 @@
       <label>Galaxy thickness</label>
       <input type="text" id="galaxy-thickness" value="2,000"/> <br/> <br/>
       <button id="btn" onclick="calculate();">Calculate 👽</button> <br/> <br/>
-      <p id="result"></p> <br/> <br/>
     </div>
+    <div id="new-wrapper">
+      <label>Stars in galaxy (billions)</label>
+      <input type="number" id="new-stars" value="100"/> <br/> <br/>
+      
+      <label>Fraction of planets in habitable zone</label>
+      <input type="number" id="new-fraction-stars" value="0.59"/> <br/> <br/>
+      
+      <label>Fraction of habitable planets that have aliens</label>
+      <input type="number" id="new-fraction-communicate" value="0.00015"/> <br/><br/>
+      
+      <label>Civilizations time</label>
+      <input type="text" id="new-communication-lifespan" value="10,000"/> <br/> <br/>
+      
+      <label>Evolution time (billions)</label>
+      <input type="number" id="new-planet-lifespan" value="1"/> <br/> <br/>
+      
+      <select id="new-galaxy-select">
+        <option value="milky-way">Milky Way</option>
+        <option value="andromeda">Andromeda</option>
+      </select> <br/> <br/>
+      <label>Galaxy diameter</label>
+      <input type="text" id="new-galaxy-diameter" value="260,000"/> <br/> <br/>
+
+      <label>Galaxy thickness</label>
+      <input type="text" id="new-galaxy-thickness" value="2,000"/> <br/> <br/>
+      <button id="new-btn" onclick="new_calculate();">Calculate 👽</button> <br/>
+    </div> <br/>
+    <input type="checkbox" id="version" style="float: left;"/> Switch to old version
+    <br/>
+    <p id="result"></p>
   </body>
 </html>
