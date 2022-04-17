@@ -27,9 +27,19 @@ This results in human extinction in 2193 (223 years after technology developing)
 Assuming that they aren't overpopulated like humans and are more likely intelligent, longer lasting civilizations would be more common, about ten times more than us is 2,230 years.
 <br/> (The ideal human population is 2.3 billion) <br/>
 Harvesting energy or dumping waste from nearby planets could increase the time a civilization can communicate. So multiplying the years by planets could be useful.
+#### New formula change
+300 years after extinction is when we made radio, so we can assume an alien civilization can last 10 times longer. <br/>
+If the ideal human population size is 2.3 billion, we can divide the peak 9.7/2.3 and get 1,265 years (overpopulation increases extinction rate and climate change) <br/>
+An alien civilization could survive 10 times longer than us (estimation) so we multiply 1,265 years by ten. <br/>
 ### Density
 Maximum distance between two points formula: ![](maximum-distance.png)
 <br/>Then just divide by number of civilizations.
+# New formula
+The formula was shortened and more accurate.
+100 - 123.2 billion stars in the milky way <br/>
+59 % of planets are in the habitable zone <br/>
+0.015% of planets that are habitable have aliens (based on our planet) <br/>
+The old formula had more 'unnecesary' fractions.
 # Detecting & contacting aliens. Why we might never contact aliens
 Radio waves will continue forever, after a certain point they will be impossible to decode due to the inverse square law.
 ### Radio waves / Decibels per milliwatt
