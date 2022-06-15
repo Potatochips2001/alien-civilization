@@ -4,7 +4,8 @@ This is a formula I made to calculate the active alien civilizations that are ca
 ### Galaxy sizes
 Milky way is 260,000 ly in diameter & 2,000 ly high, and the dark matter halo is 1.9 million ly.<a href="https://www.dailymail.co.uk/sciencetech/article-8146523/Milky-Way-extends-1-9-MILLION-light-years-thanks-dark-matter.html"><sup>[s]</sup></a> <br/>
 Andromeda is 220,000 ly in diameter & 2,600 ly high, the halo is 1,389,426 ly. <a href="https://arxiv.org/abs/1208.5712"><sup>[s]</sup></a> <br/>
-<br/> Milky way mass is 1.54 trillion solar masses, 4% is stars, average star is 0.5 solar masses, results in 123.2 billion stars.
+<br/> Milky way mass is 1.54 trillion solar masses, 4% is stars, average star is 0.5 solar masses, results in 123.2 billion stars. <br/>
+The average star has 4 planets (kepler), so if we do 1.54e+12 * 0.04 * 4, we can get 246.4 billion stars in the milky way.
 ### Fraction of stars with habitable planets
 59% of stars have a planet between 0.85 and 4 times earth and habitable
 ### Fraction of planets that develop life
