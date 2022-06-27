@@ -11,14 +11,18 @@ The average star has 4 planets (kepler). Multiply each star by 4 and we get 492.
 Formula: Stars * mature stars (over 5b years old) * habitable zone * metallicity * (time/evolvetime)<br/>
 123.2 billion stars <br/>
 Star formation rate is 3, but the average star is 0.5 solar masses, so we can set this to 6 stars formed per year. <br/>
-59% of stars are habitable and 0.85 - 4 times earth size <br/>
+60% of stars have planets in habitable zone <sup><a href="https://arxiv.org/abs/2010.14812">source</a></sup> <br/>
 (123.2e+9 - (5e+9 * 6)) / 123.2e+9 = 75.6% of stars are older than 5b years. <br/>
-2% of stars are high in population 1 / metal rich <br/>
-Civilization time is most likely ~3,000 years. <br/>
+2% of stars are population 1 / metal rich <br/>
+Civilization time is most likely 3,040 years. <br/>
 If intelligent live takes 1b years to evolve, we probably evolved later. So we set evolve time to 4.543b years. <br/>
-With these numbers we get 725 aliens in our galaxy. <br/>
+With these numbers we get 748 aliens in our galaxy. <br/>
+
+If we do this for andromeda we would get 6,074
 ### Fraction of stars with habitable planets
-59% of stars have a planet between 0.85 and 4 times earth and habitable
+59% of stars have a planet between 0.85 and 4 times earth and habitable <br/>
+
+I read another study that says 60% https://arxiv.org/abs/2010.14812
 ### Fraction of planets that develop life
 ~~Assuming a planet remains habitable for so long, there is a long time for simple life forms to develop.~~ <br/>
 Odds of planet developing life in goldilock zone 9:1 <a href="https://www.sciencedaily.com/releases/2020/05/200518162639.htm" target="_blank"><sup>[s]</sup></a> <br/>
