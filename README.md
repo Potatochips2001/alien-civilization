@@ -5,7 +5,18 @@ This is a formula I made to calculate the active alien civilizations that are ca
 Milky way is 260,000 ly in diameter & 2,000 ly high, and the dark matter halo is 1.9 million ly.<a href="https://www.dailymail.co.uk/sciencetech/article-8146523/Milky-Way-extends-1-9-MILLION-light-years-thanks-dark-matter.html"><sup>[s]</sup></a> <br/>
 Andromeda is 220,000 ly in diameter & 2,600 ly high, the halo is 1,389,426 ly. <a href="https://arxiv.org/abs/1208.5712"><sup>[s]</sup></a> <br/>
 <br/> Milky way mass is 1.54 trillion solar masses, 4% is stars, average star is 0.5 solar masses, results in 123.2 billion stars. <br/>
-The average star has 4 planets (kepler), so if we do 1.54e+12 * 0.04 * 4, we can get 246.4 billion stars in the milky way.
+The average star has 4 planets (kepler). Multiply each star by 4 and we get 492.8 billion planets.
+### Different formulas
+*Astrobiol Copernican Princ*
+Formula: Stars * mature stars (over 5b years old) * habitable zone * metallicity * (time/evolvetime)<br/>
+123.2 billion stars <br/>
+Star formation rate is 3, but the average star is 0.5 solar masses, so we can set this to 6 stars formed per year. <br/>
+59% of stars are habitable and 0.85 - 4 times earth size <br/>
+(123.2e+9 - (5e+9 * 6)) / 123.2e+9 = 75.6% of stars are older than 5b years. <br/>
+2% of stars are high in population 1 / metal rich <br/>
+Civilization time is most likely ~3,000 years. <br/>
+If intelligent live takes 1b years to evolve, we probably evolved later. So we set evolve time to 4.543b years. <br/>
+With these numbers we get 725 aliens in our galaxy. <br/>
 ### Fraction of stars with habitable planets
 59% of stars have a planet between 0.85 and 4 times earth and habitable
 ### Fraction of planets that develop life
@@ -25,13 +36,23 @@ We can estimate the time an alien civilization would last based off how long hum
 CO<sub>2</sub> levels are 419 as of 2022, exponential growth rate of CO<sub>2</sub> is 0.75%, crops can't grow after CO<sub>2</sub> levels reach 1,500 ppm,
 crops begin to die after 2,000 ppm. Without crops, humans would die off after 60 days. <br/>
 This results in human extinction in 2193 (223 years after technology developing) <br/>
-Assuming that they aren't overpopulated like humans and are more likely intelligent, longer lasting civilizations would be more common, about ten times more than us is 2,230 years.
+(If we power the world by solar panels this would be 450 years from 2022 [from heat] ) <br/>
+
+solar panel wattage = 0.1 watts <br/>
+fraction of energy is converted to heat 30% <br/>
+solar panel heat compacity = 0.0007 <br/>
+earth area in meters = 5.1e+14 <br/>
+It would take earthArea / (watt * heat fraction * solar heat compacity) watts to increase temp by 1c<br/>
+After enough solar panels it would heat up the earth to a point were it becomes inhabitable.
+<br/>
+
+Assuming that they aren't overpopulated like humans and are more likely intelligent, with our energy consumption increasing by 5% each year, it would take 760 years to get to type 2 civilization, multiply by average planets per star and we get 3,040 years.
 <br/> (The ideal human population is 2.3 billion) <br/>
 Harvesting energy or dumping waste from nearby planets could increase the time a civilization can communicate. So multiplying the years by planets could be useful.
 #### New formula change
-300 years after extinction is when we made radio, so we can assume an alien civilization can last 10 times longer. <br/>
+~~300 years after extinction is when we made radio, so we can assume an alien civilization can last 10 times longer. <br/>
 If the ideal human population size is 2.3 billion, we can divide the peak 9.7/2.3 and get 1,265 years (overpopulation increases extinction rate and climate change) <br/>
-An alien civilization could survive 10 times longer than us (estimation) so we multiply 1,265 years by ten. <br/>
+An alien civilization could survive 10 times longer than us (estimation) so we multiply 1,265 years by ten.~~ <br/>
 ### Density
 Maximum distance between two points formula: ![](maximum-distance.png)
 <br/>Then just divide by number of civilizations.
