@@ -18,7 +18,7 @@ Civilization time is most likely 3,040 years. <br/>
 If intelligent live takes 1b years to evolve, we probably evolved later. So we set evolve time to 4.543b years. <br/>
 With these numbers we get 748 aliens in our galaxy. <br/>
 
-If we do this for andromeda we would get 6,074
+If we do this for andromeda we would get 6,074, if we set andromeda's age to ~10b years then we get 4,026
 ### Fraction of stars with habitable planets
 59% of stars have a planet between 0.85 and 4 times earth and habitable <br/>
 
